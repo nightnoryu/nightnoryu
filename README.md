@@ -1,11 +1,11 @@
 # Greetings!
 
-I'm a software engineer with a passion for concise and simple solutions that make a real difference and bring profit.
+I'm a software engineer with a passion for concise and simple solutions that make a difference and bring profit.
 
-## 🖥️ Work Experience
+## 🖥️ Work experience
 
 - **iSpring Solutions** - Backend Software Engineer, June 2021 - present
-  - Domains: E-learning & BPMS/CRM Development
+  - Domains: E-learning & BPMS/CRM development
 
 ## 🎓 Education
 
@@ -14,12 +14,12 @@ I'm a software engineer with a passion for concise and simple solutions that mak
 - **Volga State University of Technology** - BEng, Program Engineering, June 2024
   - Thesis: "Expansion and modification of the functionality of the deals & sales pipeline modules in the iSpring internal CRM system"
 
-## 🔍 Interested In
+## 🔍 Interested in
 
 - Golang & PHP
-- Domain Driven Design & Clean Architecture
-- AI Agentic Applications
-- Observability Tools: Grafana & OpenSearch
+- Domain Driven Design & clean architecture
+- AI agentic applications
+- Observability tools: Grafana & OpenSearch
 
 ## 📫 How to reach me
 
