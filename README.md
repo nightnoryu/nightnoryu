@@ -13,6 +13,7 @@ I'm a software engineer with a passion for concise and simple solutions that mak
   - Thesis: "LLM-powered assistant for question answering based on a corporate knowledge database"
 - **Volga State University of Technology** - BEng, Program Engineering, June 2024
   - Thesis: "Expansion and modification of the functionality of the deals & sales pipeline modules in the iSpring internal CRM system"
+  - Courseworks: [Presentation editor (React)](https://github.com/nightnoryu/entrepresenteur), [Study assistant (React/Golang/MySQL)](https://github.com/nightnoryu/conqueror)
 
 ## 🔍 Interested in
 
