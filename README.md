@@ -1,6 +1,8 @@
-### Greetings!
+### Greetings! 👋
 
-I build backend systems, infrastructure, developer tools, and occasionally side projects.
+I build backend systems, infrastructure, developer tools, and _occasionally_ side projects.
+
+I like turning repetitive work into automation - from infrastructure and developer tooling to AI agents that actually do things.
 
 #### About Me
 
